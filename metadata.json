@@ -1,0 +1,6 @@
+{
+  "name": "Virasat",
+  "description": "AI-powered cultural heritage archive preserving traditional stories, recipes, crafts, and oral histories with Gemma AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
